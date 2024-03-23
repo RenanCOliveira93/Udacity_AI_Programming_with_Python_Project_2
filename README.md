@@ -1,2 +1,3 @@
-# Udacity_AI_Programming_with_Python_Project_2
-Second project of the AI Programming with Python certificate - Create Your Own Image Classifier.
+# AI Programming with Python Project
+
+Project code for Udacity's AI Programming with Python Nanodegree program. In this project, students first develop code for an image classifier built with PyTorch, then convert it into a command line application.
